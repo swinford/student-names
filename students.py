@@ -1,4 +1,5 @@
-studentlist = ['matt', 
+studentlist = ['matt',
+               'rodrigo',
     'Justin',
      'Hassan',
     ]
